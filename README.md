@@ -2,7 +2,7 @@
 
 Dokumen ini memuat rancangan aplikasi pinjaman online berbasis mobile untuk PT. XYZ sebagai jawaban atas technical assessment Solution Analyst. Cakupan dokumen meliputi kebutuhan sistem, high level architecture, screen flow, Entity Relationship Diagram (ERD), detail design API, dan screen behavior.
 
-Seluruh diagram tersedia pada folder `diagrams` dan dikelompokkan berdasarkan jenis diagram. Versi PDF dari dokumen ini tersedia pada berkas `Desain-Aplikasi-Pinjaman-Online.pdf`.
+Seluruh diagram tersedia pada folder `diagrams` dan dikelompokkan berdasarkan jenis diagram. Versi PDF dari dokumen ini tersedia pada berkas `Desain Aplikasi Pinjaman Online PT. XYZ.pdf`.
 
 Ketentuan yang tidak disebutkan secara eksplisit pada soal ditetapkan sebagai asumsi dan diberi tanda (asumsi).
 
